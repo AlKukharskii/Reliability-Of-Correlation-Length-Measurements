@@ -22,5 +22,4 @@ If you found it usefull then please cite it as:
   publisher = {American Physical Society}, <br>
   doi = {10.1103/PhysRevE.110.064143}, <br>
   url = {https://link.aps.org/doi/10.1103/PhysRevE.110.064143} <br>
-} <\p>
-
+} </p>
