@@ -1,7 +1,7 @@
 # Reliability-Of-Correlation-Length-Measurements
 
 
-<p>This is an official repository to an article: "Reliability of Correlation Length Measurements: A Comparative Study".</p>
+<p><strong>This is an official repository to an article: "Reliability of Correlation Length Measurements: A Comparative Study".</strong></p>
 
 <strong>URL:</strong> https://link.aps.org/doi/10.1103/PhysRevE.110.064143
 
