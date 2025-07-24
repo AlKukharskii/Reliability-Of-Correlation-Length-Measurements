@@ -7,7 +7,7 @@
 
 <strong>DOI:</strong> 10.1103/PhysRevE.110.064143
 
-<strong>If you found it usefull then please cite it as:</strong>
+<strong>If you found it usefull then, please, cite it as:</strong>
 
 <p>@article{PhysRevE.110.064143,
   title = {Reliability of correlation-length measurements: A comparative study}, <br>
